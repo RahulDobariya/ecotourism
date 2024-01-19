@@ -19,7 +19,8 @@ Detailed information on each destination, including eco-friendly accommodation o
 A blog section featuring articles on eco-tourism trends, tips for sustainable travel, and inspiring stories of responsible travelers
 A forum where users can connect, share experiences, and discuss eco-tourism practices
 
-![image](https://github.com/RahulDobariya/ecotourism/assets/122685622/10f348ac-5e36-4ef2-bb5b-c4d557027d25)
+![image](https://github.com/RahulDobariya/ecotourism/assets/122685622/923744ee-3859-438d-a122-7de7c196b4b1)
+
 
 # Deployment
 
