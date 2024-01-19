@@ -18,6 +18,9 @@ A searchable database of eco-tourism destinations worldwide
 Detailed information on each destination, including eco-friendly accommodation options, sustainable activities, and local environmental initiatives
 A blog section featuring articles on eco-tourism trends, tips for sustainable travel, and inspiring stories of responsible travelers
 A forum where users can connect, share experiences, and discuss eco-tourism practices
+
+![image](https://github.com/RahulDobariya/ecotourism/assets/122685622/10f348ac-5e36-4ef2-bb5b-c4d557027d25)
+
 # Deployment
 
 Our web application is deployed on Vercel, making it accessible to users worldwide. The backend is powered by JSONServer and hosted on Render.
